@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Header from "./components/Header";
 import Progress from "./components/Progress";
-import { Routes } from "./routes.js";
+import { Routes } from "./routes";
 import { Link } from "./contexts/RouterContext";
 
 /* global require */
